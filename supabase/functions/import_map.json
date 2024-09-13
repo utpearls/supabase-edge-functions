@@ -1,0 +1,10 @@
+{
+    "imports": {
+      "lodash": "https://cdn.skypack.dev/lodash",
+      "supabase": "npm:@supabase/supabase-js@2",
+      "stripe": "npm:stripe@^13.0.0",
+      "oakApplication": "jsr:@oak/oak/application",
+      "oakRouter": "jsr:@oak/oak/router",
+      "oak": "https://deno.land/x/oak@v11.1.0/mod.ts"
+    }
+  }
